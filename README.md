@@ -1,6 +1,6 @@
 # Predicting Urban PM2.5 from Satellite & Weather Data
 
-Predicts daily PM2.5 air-pollution levels for **179 cities the model has never seen**, using Sentinel-5P satellite readings (CO, NO₂, HCHO, SO₂, O₃, aerosol index) and GFS weather forecasts. Data Analytics course project based on the World Air Quality Index challenge.
+Predicts daily PM2.5 air-pollution levels for **179 cities the model has never seen**, using Sentinel-5P satellite readings (CO, NO₂, HCHO, SO₂, O₃, aerosol index) and GFS weather forecasts. Data Analytics course team project by **Nour Akl** and **Ahmed Hesham**, based on the World Air Quality Index challenge.
 
 ## Approach
 
